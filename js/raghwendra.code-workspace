@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Resume builder"
+		},
+		{
+			"path": "../../../../5.-ecommerce-2"
+		},
+		{
+			"path": "../../../../cat chat"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tonmoy-islam.me-main"
+	}
+}
